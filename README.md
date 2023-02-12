@@ -1,1 +1,3 @@
-# replace this
+# Amazon EventBridge Pipes demo
+
+Work in progress ... coming soon!
